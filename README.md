@@ -1,2 +1,3 @@
-# papagiannis_python_sphy_2025
-Test Python Project
+# Simple Test Python Script
+
+This script simply adds two numbers and prints the result.
